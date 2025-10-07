@@ -5,10 +5,14 @@ from __future__ import annotations
 import warnings
 from abc import ABC
 <<<<<<< HEAD
+<<<<<<< HEAD
 from collections.abc import Callable
 =======
 from collections.abc import Callable, Sequence
 >>>>>>> dd4de696b8 (fix(core): handle parent/child mustache vars (#33346))
+=======
+from collections.abc import Callable, Sequence
+>>>>>>> 0e80291804 (fix(core): handle parent/child mustache vars (#33345))
 from string import Formatter
 from typing import Any, Literal
 
