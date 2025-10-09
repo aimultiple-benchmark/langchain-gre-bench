@@ -8,12 +8,21 @@ license = { text = "MIT" }
 requires-python = ">=3.10.0,<4.0.0"
 dependencies = [
     "anthropic>=0.69.0,<1.0.0",
+<<<<<<< HEAD
     "langchain-core>=1.0.0a7,<2.0.0",
     "pydantic>=2.7.4,<3.0.0",
 ]
 name = "langchain-anthropic"
 version = "1.0.0a3"
 description = "Integration package connecting Claude (Anthropic) APIs and LangChain"
+=======
+    "langchain-core>=0.3.78,<1.0.0",
+    "pydantic>=2.7.4,<3.0.0",
+]
+name = "langchain-anthropic"
+version = "0.3.22"
+description = "An integration package connecting Anthropic and LangChain"
+>>>>>>> a763ebe86c (release(anthropic): 0.3.22 (#33394))
 readme = "README.md"
 
 [project.urls]
