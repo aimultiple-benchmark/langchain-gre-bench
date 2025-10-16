@@ -2,6 +2,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 VERSION = "1.0.0a8"
 =======
 VERSION = "0.3.79"
@@ -9,3 +10,6 @@ VERSION = "0.3.79"
 =======
 VERSION = "1.0.0rc1"
 >>>>>>> 3bfd1f6d8a (release(core): 1.0.0rc1 (#33497))
+=======
+VERSION = "1.0.0rc2"
+>>>>>>> aa78be574a (release(core): 1.0.0rc2 (#33530))
